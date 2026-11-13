@@ -57,3 +57,8 @@ The API listens on port `5000` by default. Set `VITE_API_URL` in `frontend/.env`
 - `DELETE /api/books/:id` — remove an available book
 
 Run backend checks with `cd backend; npm test`.
+## Screenshots
+
+### Dashboard
+![Library Management Dashboard](screenshots/dashboard.png)
+
